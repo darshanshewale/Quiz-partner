@@ -3,7 +3,7 @@
 ## Description ✅
 Quiz Partner is a simple React application that allows users to take quizzes on various topics. Whether you're testing your knowledge or just having fun, Quiz Partner has got you covered!
 
-## URL : 
+## URL : https://quiz-partner.netlify.app/
 
 
 ## Features 📃
